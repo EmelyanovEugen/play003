@@ -1,0 +1,1 @@
+http://www.wayofquality.de/scala/play/scalajs/reactjs/castillo-01-initial-setup/
